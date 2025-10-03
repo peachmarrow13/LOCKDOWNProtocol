@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="LOCKDOWNProtocol/LOCKDOWNProtocol.vcxproj" />
+  <Project Path="LOCKDOWNProtocol/LOCKDOWNProtocol.vcxproj" Id="e5ad1711-cff8-40d8-b90d-37eb7c39244a" />
 </Solution>
